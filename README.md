@@ -12,7 +12,7 @@ Requisitos:
 Pasos:
 1. Clona el repositorio:
 - bash (Terminal)
-- Poner en la terminal: git clone https://github.com/tu-usuario/amigo-secreto.git
+- Poner en la terminal: git clone https://github.com/gabnunezm/amigo-secreto.git
 
 2. Abre el proyecto:
 
